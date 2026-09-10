@@ -14,6 +14,8 @@ The booking form validates required fields and prepares a WhatsApp message to +2
 
 Business details supplied by the owner: Winneba base, Central Region service area, 0548818011 contact, and 24/7 service availability. No invented reviews, ratings, prices, certifications, or customer counts are included. Gallery and hero photographs are AI-generated illustrations, visibly labelled on the website. Replace with authorised real photos when available.
 
+The homepage includes Adinkra-inspired uniform and textile details, created for the brand. References for the traditional Nsaa and Adinkrahene forms: University of Michigan Department of Afroamerican and African Studies, https://lsa.umich.edu/daas/engagement/adinkra_symbols.html. The illustrations celebrate Ghanaian heritage; they are not historical artefacts or photographs of actual uniforms.
+
 ## Deployment
 
 Deploy to Vercel using the Next.js preset. No environment variables or external database are required. Keep the repository connected to Vercel to deploy future commits automatically.
